@@ -1,6 +1,6 @@
 Overview:
 
-In this project I've collected publicly available data on soccer players in Major League Soccer. 
+In this project I've collected publicly available data of soccer players in Major League Soccer. 
 Players stats from mls.com and players salaries from mlsplayers.org 
 Combined it together and created one dataset. 
 Analysed players statistics and their salary.  
